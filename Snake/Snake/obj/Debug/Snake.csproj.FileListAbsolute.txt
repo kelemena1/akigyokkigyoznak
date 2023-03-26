@@ -6,19 +6,11 @@ C:\Users\KerenyiR\source\repos\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindi
 C:\Users\KerenyiR\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\KerenyiR\source\repos\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\KerenyiR\source\repos\Snake\Snake\obj\Debug\Snake.pdb
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\bin\Debug\Snake.exe.config
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\bin\Debug\Snake.exe
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\bin\Debug\Snake.pdb
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\obj\Debug\Snake.exe
-C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\obj\Debug\Snake.pdb
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Snake.exe.config
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Snake.exe
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Snake.pdb
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\obj\Debug\Snake.exe
-C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Felhasználó\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Felhasználó\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Felhasználó\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Felhasználó\Desktop\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felhasználó\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Felhasználó\Desktop\Snake\Snake\obj\Debug\Snake.pdb
