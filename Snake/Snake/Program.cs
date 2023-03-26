@@ -25,8 +25,9 @@ namespace Snake
         static int time = 10000;
         static int score = 0;
         static int level = 1;
-        static SoundPlayer muzsika = new SoundPlayer(@"C:\Users\Adam\OneDrive\Asztali gép\Snake\Snake\bin\Debug\Sounds\Background.wav");
-
+        //static SoundPlayer muzsika = new SoundPlayer(@"C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Sounds\Background.wav");
+        static SoundPlayer pont = new SoundPlayer(@"C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Sounds\Villamcsapva.wav");
+        static SoundPlayer vege = new SoundPlayer(@"C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Sounds\Nulla.wav");
 
        
         static void PalyaKeszites(char[,] screen)
@@ -147,7 +148,8 @@ namespace Snake
 
         static void KigyoMozgatas()
         {
-            muzsika.PlayLooping();
+            //SoundPlayer muzsika = new SoundPlayer(@"C:\Users\Felhasználó\Desktop\akigyokkigyoznak-main\Snake\Snake\bin\Debug\Sounds\Background.wav");
+            //muzsika.PlayLooping();
             
             while (!end)
             {
@@ -167,6 +169,7 @@ namespace Snake
                             }
                             else
                             {
+                                vege.Play();
                                 end = true;
                             }
                             break;
@@ -182,6 +185,7 @@ namespace Snake
                             }
                             else
                             {
+                                vege.Play();
                                 end = true;
                             }
                             break;
@@ -197,6 +201,7 @@ namespace Snake
                             }
                             else
                             {
+                                vege.Play();
                                 end = true;
                             }
                             break;
@@ -212,6 +217,7 @@ namespace Snake
                             }
                             else
                             {
+                                vege.Play();
                                 end = true;
                             }
                             break;
@@ -223,6 +229,7 @@ namespace Snake
                 }
                 if (screen[x,y]=='■') 
                 {
+                    vege.Play();
                     end= true;
                 }
                 else if (screen[x, y] != '♥')
@@ -234,6 +241,11 @@ namespace Snake
                 else
                 {
                     score += 1;
+                    //long megallit = muzsika.Stream.Position;
+                    //muzsika.Stop();
+                    pont.Play();
+                    //muzsika.Stream.Position = megallit;
+                    //muzsika.Play();
                     time += 500;
                     almaSzam --;
                     if (almaSzam == 0)
@@ -261,7 +273,7 @@ namespace Snake
             Console.BackgroundColor = ConsoleColor.Red;
             Console.ForegroundColor= ConsoleColor.White;
             //Háttérzene
-            muzsika.Stop();
+            //muzsika.Stop();
 
 
 
@@ -325,8 +337,7 @@ namespace Snake
                 Console.WriteLine($"Helyezés:{counter}\tName: {kiirato[0]}\tHighest Score:{kiirato[1]}");
                     counter++;
                 }
-            muzsika.Play();
-            muzsika.Play();
+            //muzsika.Play();
 
             Console.WriteLine();
         }

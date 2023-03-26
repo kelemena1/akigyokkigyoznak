@@ -1,0 +1,16 @@
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\bin\Debug\SnakeServer.exe.config
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\bin\Debug\SnakeServer.exe
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\bin\Debug\SnakeServer.pdb
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.AssemblyReference.cache
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.CoreCompileInputs.cache
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\obj\Debug\SnakeServer.exe
+C:\Users\KerenyiR\source\repos\SnakeServer\SnakeServer\obj\Debug\SnakeServer.pdb
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\bin\Debug\SnakeServer.exe.config
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\bin\Debug\SnakeServer.exe
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\bin\Debug\SnakeServer.pdb
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\obj\Debug\SnakeServer.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\obj\Debug\SnakeServer.exe
+C:\Users\Felhasználó\Desktop\SnakeServer\SnakeServer\obj\Debug\SnakeServer.pdb
